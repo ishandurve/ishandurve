@@ -1,0 +1,1 @@
+Hi, I am Ishan Durve, a MS Data Science Student at the University of Sheffield (2022). I am interested in Predictive systems and Machine Learning algorithms, and I have many hobbies, but GitHub is probably not the best platform
